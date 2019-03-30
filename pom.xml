@@ -11,8 +11,9 @@
         <relativePath>../kakoo/pom.xml</relativePath>
     </parent>
 
-    <artifactId>gaming-parent</artifactId>
     <packaging>pom</packaging>
+    <artifactId>gaming-parent</artifactId>
+    <name>Kakoo's Gaming Software project - Parent</name>
 
     <modules>
         <module>common</module>

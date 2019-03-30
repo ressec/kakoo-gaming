@@ -11,5 +11,6 @@
     </parent>
 
     <artifactId>gaming-common</artifactId>
+    <name>Kakoo's Gaming Software project - Common</name>
 
 </project>
